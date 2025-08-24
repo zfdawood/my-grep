@@ -1,1 +1,1 @@
-use `carge build` to create the binary and then it's my-grep <regex> <file>
+use `cargo build` to create the binary and then run using `my-grep <regex pattern> <file>
